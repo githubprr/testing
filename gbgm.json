@@ -1,7 +1,6 @@
 {
-  "main": "https://gbgm.buzz",
+  "home": "https://gbgm.buzz",
   "register": "https://gbgm.buzz/#/register?invitationCode=9430732257860",
-  "lottery_image": "https://ossimg.6club-club.com/6club/lotterycategory/lotterycategory_202409041609289wsl.png",
   "login": "https://gbgm.buzz/#/login",
   "wallet": "https://gbgm.buzz/#/wallet"
 }
