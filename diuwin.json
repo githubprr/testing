@@ -1,0 +1,11 @@
+{
+  "home": "https://www.diuwin8.com",
+  "register": "https://www.diuwin8.com/#/register?invitationCode=37778101726",
+  "login": "https://www.diuwin8.com/#/login",
+  "wallet": "https://www.diuwin8.com/#/wallet",
+  "matching": [
+    "https://www.diuwin8.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.diuwin8.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3",
+    "https://www.diuwin8.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5"
+  ]
+}
